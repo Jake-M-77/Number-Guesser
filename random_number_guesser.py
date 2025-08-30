@@ -45,7 +45,7 @@ def start_game():
         print("Invalid format!")
 
     # Development purposes only
-    print(num)
+    #print(num)
 
     while is_looping:
         
