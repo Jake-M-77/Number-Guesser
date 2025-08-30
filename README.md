@@ -31,8 +31,6 @@ A simple command-line game built in Python where the player tries to guess a ran
 
 ## Future Improvements 🚀
 
-- Add difficulty levels (easy/medium/hard)
-- Option to play again after finishing
 - Save a leaderboard to track high scores
 
 ---
